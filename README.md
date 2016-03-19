@@ -11,4 +11,6 @@ Password:
  
 Unzip the Watson-TextToSpeech-Python in your code directory and run it in Python.  
 
+In this download - have a look at the Zip File which contains all the examples of the voices that are generated for the example input text.
+
 Good Luck and have a look at the code and learn how to use it.
